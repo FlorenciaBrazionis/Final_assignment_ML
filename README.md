@@ -3,11 +3,6 @@
 Machine Learning and Deep Learning 
 Final Assignment
 
-Students:  
-Eleni Kalema: ID - 175891  
-Florencia Cecilia Brazionis - ID 175974  
-Lucia Argudin - ID 175893  
-
 ---
 
 ## Description
